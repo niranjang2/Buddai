@@ -1,0 +1,80 @@
+body{
+  background-color: rgb(133, 128, 128);
+}
+.form{
+text-align: center;
+margin-top: 10%;
+}
+.n1{
+  margin-right: 45%;
+  font-size: 17px;
+  color: white;
+  font-weight: 500;
+}
+.name{
+  margin-top: 10px;
+  height: 38px;
+  width: 50%;
+  border-radius: 5px;
+  border: none;
+  font-weight: 500;
+  font-size: 17px;
+}
+.c1{
+  margin-right: 44%;
+  font-size: 17px;
+  color: white;
+  font-weight: 500;
+ line-height: 70px;
+}
+.category{
+  margin-top: -3%;
+  height: 38px;
+  width: 50%;
+  border-radius: 5px;
+  border: none;
+  font-weight: 700;
+  font-size: 14px;
+}
+.l1{
+  margin-right: 45%;
+  font-size: 17px;
+  color: white;
+  font-weight: 500;
+  line-height: 70px;
+}
+.level{
+  margin-top: -3%;
+  height: 38px;
+  width: 50%;
+  border-radius: 5px;
+  font-weight: 700;
+  font-size: 17px;
+}
+.q1{
+  margin-right: 43.2%;
+  font-size: 17px;
+  color: white;
+  font-weight: 500;
+  line-height: 70px;
+}
+.question{
+  margin-top: -3%;
+  height: 38px;
+  width: 50%;
+  border-radius: 5px;
+  border: none;
+}
+.btn{
+  margin-top: 4%;
+  height: 50px;
+  width: 180px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  color: white;
+  background-color: green;
+  font-weight: 700;
+  font-size: 17px;
+
+}
